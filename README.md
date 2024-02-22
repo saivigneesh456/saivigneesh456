@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an Intern at Virtusa.<br>👯 I’m looking to collaborate on Open source projects.<br>🤝 I’m seeking help with Learning advanced concepts in React and spring-boot.<br>🌱 I’m currently learning React.<br>💬 Ask me about My experience building RESTful APIs, and designing the scalable architecture for web applications.<br>⚡ Fun fact: I'm a big fan of crime movies too! From thrilling heists to intricate mysteries, crime movies offer a captivating blend of suspense, action, and clever storytelling. <br>
+🔭 I’m currently working.<br>👯 I’m looking to collaborate on Open source projects.<br>🤝 I’m seeking help with Learning advanced concepts in React and spring-boot.<br>🌱 I’m currently learning React.<br>💬 Ask me about My experience building RESTful APIs, and designing the scalable architecture for web applications.<br>⚡ Fun fact: I'm a big fan of crime movies too! From thrilling heists to intricate mysteries, crime movies offer a captivating blend of suspense, action, and clever storytelling. <br>
 
 
 ## 🌐 Socials:
